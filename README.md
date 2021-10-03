@@ -42,6 +42,7 @@ Aplicação feita para controle de gastos, feito com o uso prioritário do JavaS
 
 As seguintes ferramentas foram usadas neste projeto:
 
+- [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://www.javascript.com/)
 
