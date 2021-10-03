@@ -1,98 +1,70 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="DevFinance" />
+  <img src="https://raw.githubusercontent.com/tiago-mends/dev.finances/master/images/screenshot/screenshot.png" alt="Dev.Finance" />
 
-  &#xa0;
-
-  <!-- <a href="https://devfinance.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">DevFinance</h1>
+<h1 align="center">Dev.Finance, feito com JavaScript</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/tiago-mends/dev.finances">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/tiago-mends/dev.finances">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tiago-mends/dev.finances">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/devfinance?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/tiago-mends/dev.finances" />
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  DevFinance 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
+<hr>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-recursos">Recursos</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="https://github.com/tiago-mends" target="_blank">Autor</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
-Describe your project
+Aplicação feita para controle de gastos, feito com o uso prioritário do JavaScript, procedimento realizado junto ao curso da RocketSeat/discovery, aula sendo ministrada pelo professor <a href="https://github.com/maykbrito" target="_blank">Mayk Brito</a>.
 
-## :sparkles: Features ##
+## :sparkles: Recursos ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Inclusão e remoção de valores;\
+:heavy_check_mark: Soma das despesas;\
+:heavy_check_mark: Manipuilação de cookies;
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes ferramentas foram usadas neste projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JavaScript](https://www.javascript.com/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requerimentos ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Sem requerimento necessário.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Começando ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/devfinance
+# Clone este projeto
+$ git@github.com:tiago-mends/dev.finances.git
 
-# Access
-$ cd devfinance
+# Acesse a pasta, por exemplo
+$ cd teste
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+# Execute o projeto pelo index.html
 ```
 
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Feito com :heart: por <a href="https://github.com/tiago-mends" target="_blank">Tiago Mendes</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Voltar para o topo</a>
